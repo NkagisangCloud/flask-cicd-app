@@ -12,7 +12,7 @@
           "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
         },
         "StringLike": {
-          "token.actions.githubusercontent.com:sub": "repo:Nkagisang-Cloud/flask-cicd-app:*"
+          "token.actions.githubusercontent.com:sub": "repo:NkagisangCloud/flask-cicd-app:*"
         }
       }
     }
